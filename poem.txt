@@ -5,3 +5,6 @@ fade to black
 
 this is a new line
 but everything still fades to black
+
+This is on the newTest branch!
+Everything goes black...
