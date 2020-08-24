@@ -1,4 +1,10 @@
 # hello-world
 My first repository.
-I like chicken-dogs.
+I like hot dogs.
+
+And dogs.
+
+ANd cats.
+
+And Pigs.
 
