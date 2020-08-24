@@ -2,3 +2,6 @@ The sky
 purple
 beautiful
 fade to black
+
+this is a new line
+but everything still fades to black
